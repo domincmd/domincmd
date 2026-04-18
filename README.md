@@ -6,14 +6,6 @@ i am the most confortable with web development and nodejs. ive got some experien
 
 i also have a decent amount of experience with python.
 
-## what do i daily drive?
-i use arch btw. you can check my dotfiles [here](https://github.com/domincmd/arch) and my wallpapers [here](https://github.com/domincmd/arch)
-
-*the dotfiles are a bit old, im probably gonna update them as soon as hyprland releases the lua config update and i migrate my config to it, im working on a big revamp.*
-
-## what to expect from this page?
-a whole bunch of unserious projects. most of them are really old and abandoned, and some of them are really important to me (this doesnt mean they're not badly written).
-
 ## what are some good repos to take a look at?
 whatever u feel like, but some of my favourites are:
  - [ecocan](https://github.com/domincmd/ecocan)
