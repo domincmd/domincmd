@@ -5,7 +5,6 @@ im a self taught programming student and this is my github. feel free to browse 
 i am the most confortable with web development and nodejs. ive got some experience with express, and am currently working on getting familiar with sql databases. i also have a decent amount of experience with python.
 
 ## what are some good repos to take a look at?
-whatever u feel like, but some of my favourites are:
  - [ecocan](https://github.com/domincmd/ecocan)  
    *made this project for my science fair. it was mostly my first experience with express, and i think i did pretty decent. it has decent documentation and actually has communication with arduino. i avoided using databases and went with a json approach. it has some pretty neat code, but is mostly overcomplicated for what it does, it is probably my most impressive work, though.*
  - [teste de desenvolvimento web](https://github.com/domincmd/teste-de-desenvolvimento-web)  
@@ -16,7 +15,3 @@ whatever u feel like, but some of my favourites are:
    *a list of my best wallpapers, nothing much to say.*
  - [arch](https://github.com/domincmd/arch)  
    *my arch dotfiles, probably going to be drastically changed soon.*
-
-## how to contact me?
-reach me using my email:
-fe.domingueti@gmail.com
