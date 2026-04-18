@@ -1,10 +1,8 @@
 # hi there
-im a self taught programming student and this is my github. feel free to browse around and take a look at my (mostly abandoned and awfully written) projects :)
+im a self taught programming student and this is my github. feel free to browse around and take a look at my (mostly abandoned and awfully written) projects :) 
+i am good at web development and nodejs. ive got some experience with express, and am currently working on getting familiar with sql databases. i also have a decent amount of knowledge about python.
 
-## what am i familiar with?
-i am the most confortable with web development and nodejs. ive got some experience with express, and am currently working on getting familiar with sql databases. i also have a decent amount of experience with python.
-
-## what are some good repos to take a look at?
+## repos you can check out
  - [ecocan](https://github.com/domincmd/ecocan)  
    *made this project for my science fair. it was mostly my first experience with express, and i think i did pretty decent. it has decent documentation and actually has communication with arduino. i avoided using databases and went with a json approach. it has some pretty neat code, but is mostly overcomplicated for what it does, it is probably my most impressive work, though.*
  - [teste de desenvolvimento web](https://github.com/domincmd/teste-de-desenvolvimento-web)  
